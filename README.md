@@ -117,7 +117,7 @@ Below are the reconstruction results using the **fine-tuned weights** of the mod
 
 The following confusion matrix represents the model's performance on the **training set**:
 
-<img src="images/matt.png" alt="Training Confusion Matrix" width="400">
+<img src="Images/matt.png" alt="Training Confusion Matrix" width="400">
 
 ---
 
@@ -125,7 +125,7 @@ The following confusion matrix represents the model's performance on the **train
 
 The following confusion matrix represents the model's performance on the **validation set**:
 
-<img src="images/matv.png" alt="Validation Confusion Matrix" width="400">
+<img src="Images/matv.png" alt="Validation Confusion Matrix" width="400">
 
 ---
 
