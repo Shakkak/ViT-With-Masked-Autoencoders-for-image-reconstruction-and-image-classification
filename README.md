@@ -76,7 +76,7 @@ Below are the reconstruction results using the **default weights** of the pretra
 
 | Original                                       | Masked                                         | Reconstruction                                 | Reconstruction + Visible                       |
 | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| <img src="images/f1.png" alt="f1" width="150"> | <img src="images/f2.png" alt="f2" width="150"> | <img src="images/f3.png" alt="f3" width="150"> | <img src="images/f4.png" alt="f4" width="150"> |
+| <img src="Images/f1.png" alt="f1" width="150"> | <img src="Images/f2.png" alt="f2" width="150"> | <img src="Images/f3.png" alt="f3" width="150"> | <img src="Images/f4.png" alt="f4" width="150"> |
 
 ---
 
@@ -88,7 +88,7 @@ Below are the reconstruction results using the **fine-tuned weights** of the mod
 
 | Original                                       | Masked                                         | Reconstruction                                 | Reconstruction + Visible                       |
 | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| <img src="images/o1.png" alt="o1" width="150"> | <img src="images/o2.png" alt="o2" width="150"> | <img src="images/o3.png" alt="o3" width="150"> | <img src="images/o4.png" alt="o4" width="150"> |
+| <img src="Images/o1.png" alt="o1" width="150"> | <img src="Images/o2.png" alt="o2" width="150"> | <img src="Images/o3.png" alt="o3" width="150"> | <img src="Images/o4.png" alt="o4" width="150"> |
 
 ---
 
